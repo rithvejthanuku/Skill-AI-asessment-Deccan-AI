@@ -14,7 +14,7 @@ SkillLens is a fully browser-based AI tool that conversationally assesses a cand
 
 ## 🌐 Live Site
 
-**[➜ Try SkillLens Live](file:///C:/Users/thanuku/Downloads/skillagent-fixed%20(1).html)**
+**[➜ Try SkillLens Live](file:///C:/Users/thanuku/Downloads/skillagent-fixed%20(3).html)**
 
 > Bring your own Anthropic API key — get one free at [console.anthropic.com](https://console.anthropic.com)
 
@@ -70,10 +70,10 @@ Upload Resume PDF  →  AI Extracts Skills  →  Paste Job Description
 No installation required. Just:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://rithvejthanuku.github.io/Skill-AI-asessment-Deccan-AI/
 cd YOUR_REPO
 # Open index.html in your browser
-open skillagent-fixed.html
+open Skill AI Assessment.html
 ```
 
 Or simply **download the HTML file** and open it in Chrome, Firefox, or Edge.
