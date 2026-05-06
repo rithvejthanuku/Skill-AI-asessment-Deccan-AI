@@ -14,7 +14,7 @@ SkillLens is a fully browser-based AI tool that conversationally assesses a cand
 
 ## 🌐 Live Site
 
-**[➜ Try SkillLens Live](file:///C:/Users/thanuku/Downloads/skillagent-fixed%20(3).html)**
+**[➜ Try SkillLens Live](https://skill-ai-asessment-deccan-ai-7l76.vercel.app/)**
 
 > Bring your own Anthropic API key — get one free at [console.anthropic.com](https://console.anthropic.com)
 
